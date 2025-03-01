@@ -1,9 +1,10 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Tokyo Night",
   "accentColor": "",
   "translucency": false,
   "interfaceFontFamily": "CaskaydiaCove Nerd Font Mono",
   "textFontFamily": "CaskaydiaCove Nerd Font Mono",
   "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "showRibbon": true
 }

@@ -1,6 +1,138 @@
+---
+sticker: lucide//bot
+---
 %% Begin Waypoint %%
-- [[what_to_learn]]
+- **[[Betriebssysteme]]**
+	- **[[Fragen]]**
+		- [[Client und Server]]
+		- [[Linux]]
+		- [[Windows]]
+	- **[[Themen]]**
+		- [[Client und Server]]
+		- [[Linux]]
+		- [[Windows]]
+- **[[Cloud]]**
+	- **[[Fragen]]**
+		- [[Cloud]]
+	- **[[Themen]]**
+		- [[Cloud]]
+- **[[Datenbanken]]**
+	- **[[Fragen]]**
+		- [[Datenbanken]]
+	- **[[Themen]]**
+		- [[Datenbanken]]
+- **[[Elektrotechnik Grundlagen]]**
+	- **[[Fragen]]**
+		- [[Elektrotechnik Grundlagen]]
+	- **[[Themen]]**
+		- [[Anwenderschulung]]
+		- [[Formelsammlung]]
+- **[[Fehlersuche und Helpdesk]]**
+	- **[[Fragen]]**
+		- [[Angebot, Auftragsbestätigung, Rechnung, AGB, Lösungskonzepte]]
+	- [[Fragen]]
+	- [[Personal Notes]]
+- **[[Monitoring]]**
+	- **[[Fragen]]**
+		- [[Angebot, Auftragsbestätigung, Rechnung, AGB, Lösungskonzepte]]
+	- [[Fragen]]
+	- [[Personal Notes]]
+	- **[[Themen]]**
+- **[[Netzwerktechnik]]**
+	- **[[Fragen]]**
+		- [[Grundlagen]]
+		- [[Hardware]]
+		- [[LAN, WAN, WLAN, VLAN]]
+		- [[Netzwerkdienste]]
+		- [[OSI-Schichtenmodell]]
+		- [[Protokolle]]
+		- [[Routing]]
+		- [[Verkabelung]]
+	- **[[Themen]]**
+		- [[Grundlagen]]
+		- [[Hardware]]
+		- [[LAN, WAN, WLAN, VLAN]]
+		- [[Netzwerkdienste]]
+		- [[OSI-Schichtenmodell]]
+		- [[Protokolle]]
+		- [[Routing]]
+		- [[Verkabelung]]
+- **[[Org Und Kaufmännisches]]**
+	- **[[Fragen]]**
+		- [[Angebot, Auftragsbestätigung, Rechnung, AGB, Lösungskonzepte]]
+		- [[Anwenderschulung]]
+		- [[Datenschutz]]
+		- [[Dokumentation]]
+		- [[Ergonomie]]
+		- [[Garantie Und Gewährleistung]]
+		- [[Kalkulation Produkte und Stundensätze]]
+		- [[Projektplanung]]
+	- **[[Themen]]**
+		- [[Anwenderschulung]]
+		- [[Datenschutz]]
+		- [[Dokumentation]]
+		- [[Ergonomie]]
+		- [[Garantie Und Gewährleistung]]
+		- [[Kalkulation Produkte und Stundensätze]]
+		- [[Projektplanung]]
+- **[[Programmierung und Scripts]]**
+	- **[[Fragen]]**
+		- [[Programmierung und Scripts]]
+	- **[[Themen]]**
+		- [[Programmierung und Scripts]]
+- **[[Sicherheit]]**
+	- **[[Fragen]]**
+		- [[Backup]]
+		- [[Firewall]]
+		- [[PC und Server Hardware]]
+		- [[Physische Sicherheit]]
+		- [[Storage]]
+		- [[USV]]
+		- [[Viren, Rootkits, Trojaner, Ransomware]]
+		- [[Zertifikate]]
+	- **[[Themen]]**
+		- [[Backup]]
+		- [[Firewall]]
+		- [[PC und Server Hardware]]
+		- [[Physische Sicherheit]]
+		- [[Storage]]
+		- [[USV]]
+		- [[Viren, Rootkits, Trojaner, Ransomware]]
+		- [[Zertifikate]]
+- **[[Social Media]]**
+	- **[[Fragen]]**
+		- [[Angebot, Auftragsbestätigung, Rechnung, AGB, Lösungskonzepte]]
+	- [[Fragen]]
+	- **[[Themen]]**
+- **[[Software]]**
+	- **[[Fragen]]**
+		- [[Angebot, Auftragsbestätigung, Rechnung, AGB, Lösungskonzepte]]
+	- [[Fragen]]
+	- [[Personal Notes]]
+	- **[[Themen]]**
+- **[[Standards]]**
+	- **[[Fragen]]**
+		- [[Angebot, Auftragsbestätigung, Rechnung, AGB, Lösungskonzepte]]
+	- [[Fragen]]
+	- [[Personal Notes]]
+	- **[[Themen]]**
+- **[[Telefonie]]**
+	- **[[Fragen]]**
+		- [[Angebot, Auftragsbestätigung, Rechnung, AGB, Lösungskonzepte]]
+	- [[Fragen]]
+	- [[Personal Notes]]
+	- **[[Themen]]**
+- **[[Virtualisierung]]**
+	- **[[Fragen]]**
+		- [[Angebot, Auftragsbestätigung, Rechnung, AGB, Lösungskonzepte]]
+	- [[Fragen]]
+	- [[Personal Notes]]
+	- **[[Themen]]**
+- **[[Web]]**
+	- **[[Fragen]]**
+		- [[Angebot, Auftragsbestätigung, Rechnung, AGB, Lösungskonzepte]]
+	- [[Fragen]]
+	- [[Personal Notes]]
+	- **[[Themen]]**
 
 %% End Waypoint %%
-
-

@@ -4,20 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "269a0fa71dc10bc9",
+        "id": "66a687b111bd585b",
         "type": "tabs",
         "children": [
           {
-            "id": "64f8912b04bfe438",
+            "id": "70fe3618ed588a8f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "mk-space",
+              "state": {
+                "path": "Contents/Prüfungen/LAP/Betriebssysteme"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Betriebssysteme"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -36,7 +39,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -70,7 +74,7 @@
             }
           },
           {
-            "id": "a163c354d1245b74",
+            "id": "d8bb7b66dbd90b62",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "right": {
     "id": "2876e1be8ed12764",
@@ -144,10 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Prüfungen/SysAdmin/Q&A/Better Cheatsheet.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Better Cheatsheet"
+              "title": "Outline"
             }
           }
         ],
@@ -168,63 +175,63 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64f8912b04bfe438",
+  "active": "d5d18f458821df13",
   "lastOpenFiles": [
-    "Contents/Project/Stronsky-Teams.md",
-    "Contents/Project/Management/Projects.md",
+    "Contents/Prüfungen/LAP/Untitled.md",
+    "Contents/Prüfungen/LAP/Sicherheit/Themen/Storage.md",
+    "Contents/Prüfungen/LAP/Sicherheit/Themen/PC und Server Hardware.md",
+    "Contents/Prüfungen/LAP/Sicherheit/Themen/Physische Sicherheit.md",
+    "Contents/Prüfungen/LAP/Sicherheit/Themen/USV.md",
+    "Contents/Prüfungen/LAP/Sicherheit/Themen/Backup.md",
+    "Contents/Prüfungen/LAP/Sicherheit/Themen/Zertifikate.md",
+    "Contents/Prüfungen/LAP/Sicherheit/Themen/Firewall.md",
+    "Contents/Prüfungen/LAP/Sicherheit/Themen/Viren, Rootkits, Trojaner, Ransomware.md",
+    "Contents/Prüfungen/LAP/Programmierung und Scripts/Themen/Programmierung und Scripts.md",
+    "Contents/Prüfungen/LAP/Netzwerktechnik/Themen/Netzwerkdienste.md",
+    "Contents/Prüfungen/LAP/Netzwerktechnik/Themen/Routing.md",
+    "Contents/Prüfungen/LAP/Netzwerktechnik/Themen/Protokolle.md",
+    "Contents/Prüfungen/LAP/Netzwerktechnik/Themen/LAN, WAN, WLAN, VLAN.md",
+    "Contents/Prüfungen/LAP/Netzwerktechnik/Themen/Hardware.md",
+    "Contents/Prüfungen/LAP/Netzwerktechnik/Themen/Verkabelung.md",
+    "Contents/Prüfungen/LAP/Netzwerktechnik/Themen/OSI-Schichtenmodell.md",
+    "Contents/Prüfungen/LAP/Netzwerktechnik/Themen/Grundlagen.md",
+    "Contents/Prüfungen/LAP/Datenbanken/Themen/Datenbanken.md",
+    "Contents/Prüfungen/LAP/Cloud/Themen/Cloud.md",
+    "Contents/Prüfungen/LAP/Cloud/Fragen/Cloud.md",
+    "Contents/Prüfungen/LAP/Betriebssysteme/Themen/Client und Server.md",
+    "Contents/Prüfungen/LAP/Betriebssysteme/Themen/Linux.md",
+    "Contents/Prüfungen/LAP/Betriebssysteme/Themen/Windows.md",
+    "Contents/Prüfungen/LAP/Betriebssysteme/Themen/Themen.md",
+    "Contents/Prüfungen/LAP/Betriebssysteme/Themen",
+    "Contents/Prüfungen/LAP/Cloud/Themen/Themen.md",
+    "Contents/Prüfungen/LAP/Cloud/Themen",
+    "Contents/Prüfungen/LAP/Datenbanken/Themen",
+    "Contents/Prüfungen/LAP/Monitoring/Themen",
+    "Contents/Prüfungen/LAP/Netzwerktechnik/Themen",
+    "Contents/Prüfungen/LAP/Programmierung und Scripts/Themen",
+    "Contents/Prüfungen/LAP/Sicherheit/Themen",
+    "Contents/Prüfungen/LAP/Social Media/Themen",
+    "Contents/Prüfungen/LAP/Software/Themen",
+    "Contents/Prüfungen/LAP/Standards/Themen",
+    "Contents/Prüfungen/LAP/images/image2.jpg",
+    "Contents/Prüfungen/LAP/images/image1.jpg",
+    "Contents/Prüfungen/images/image2.jpg",
+    "Contents/Prüfungen/images/image1.jpg",
     "Contents/Project/Structure.canvas",
-    "Contents/Project/Management.md",
-    "Contents/Project/Management/Management.md",
-    "Contents/Project/Management",
-    "Contents/Project/Diagram.svg.xml",
-    "Contents/Project/Project.md",
     "Contents/Project/stronghealth.svg",
-    "Contents/Project/stronghealth.drawio copy",
     "Contents/Project/Diagram.svg",
-    "Contents/Project/Untitled.md",
     "Contents/Project/Untitled Diagram.svg",
-    "Contents/Project/stronghealth.drawio",
-    "Contents/Prüfungen/SysAdmin/Q&A/Better Cheatsheet.md",
-    "Contents/Prüfungen/SysAdmin/Virtualisierung/source.md",
-    "Contents/Project",
-    "Contents/Project.md",
-    "Contents/IP/Subnet Mask Calculation.md",
-    "Contents/IP/Subnet Mask.md",
     "Contents/Prüfungen/SysAdmin/Q&A/DNAT Conf.canvas",
     "Contents/Prüfungen/SysAdmin/Q&A/Connect the right answers .canvas",
-    "Contents/Prüfungen/SysAdmin/Q&A/Demotest.md",
-    "Contents/Prüfungen/SysAdmin/ Firewall & VPN/Marktüberblick und Hersteller.md",
-    "Contents/Prüfungen/SysAdmin/ Firewall & VPN/Versuch einer Kategorisierung.md",
     "Contents/Prüfungen/SysAdmin/ Firewall & VPN/luga.local.canvas",
-    "Contents/Prüfungen/SysAdmin/Active Directory/Q&A.md",
     "Contents/_attachments/Pasted image 20241030093235.png",
-    "Contents/Active Directory (AD)/AGULP.md",
     "Contents/Prüfungen/SysAdmin/Q&A/Lösung DNAT Conf.canvas",
-    "DNAT Conf.canv.md",
     "Contents/Prüfungen/SysAdmin/Q&A/Frage4 Lösung.canvas",
     "Untitled.canvas",
-    "Contents/Prüfungen/SysAdmin/Q&A/cheatsheet.md",
-    "Contents/Prüfungen/SysAdmin/Active Directory/Untitled.md",
-    "Contents/Prüfungen/SysAdmin/Microsoft365/all.md",
-    "Contents/Prüfungen/SysAdmin/Q&A/Q&A.md",
-    "Contents/Prüfungen/SysAdmin/Q&A",
-    "Contents/Active Directory (AD)/FSMO.md",
-    "Contents/Generell/Terminal Cheatsheet.md",
-    "Contents/Operating Systems (OS)/Windows/WMI.md",
-    "Contents/Operating Systems (OS)/Windows",
     "Contents/Prüfungen/SysAdmin/ Firewall & VPN/Untitled.canvas",
-    "Contents/Prüfungen/SysAdmin/ Firewall & VPN/Untitled.md",
-    "Contents/Prüfungen/SysAdmin/ Firewall & VPN/Firewall-Funktionen.md",
     "Contents/_attachments/web.svg",
     "Contents/Prüfungen/SysAdmin/Active Directory/stronsky.biz.canvas",
-    "Contents/Prüfungen/SysAdmin/Active Directory",
-    "Contents/Prüfungen/SysAdmin/Virtualisierung",
     "Contents/_attachments/Pasted image 20241018150659.png",
-    "Contents/_attachments/Pasted image 20241018160007.png",
-    "Contents/_attachments/Pasted image 20241018155752.png",
-    "Contents/_attachments/Pasted image 20241018155748.png",
-    "Contents/_attachments/Pasted image 20241018155700.png",
-    "Contents/Prüfungen/SysAdmin/Microsoft365",
     "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls/Untitled.canvas"
   ]
 }

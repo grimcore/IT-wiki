@@ -7,6 +7,10 @@
 - **[[Green-IT]]**
 - **[[Hardware]]**
 - **[[IP]]**
+- **[[Kaufmännisches]]**
+	- [[Basics]]
+	- [[Gesellschaftsgruppen]]
+	- [[Quellen]]
 - **[[Linux]]**
 - **[[Monitoring]]**
 - **[[Network]]**
