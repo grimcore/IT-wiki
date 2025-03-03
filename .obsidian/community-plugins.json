@@ -1,11 +1,9 @@
 [
   "waypoint",
-  "obsidian-minimal-settings",
   "codeblock-customizer",
   "improved-vimcursor",
-  "make-md",
-  "obsidian-style-settings",
   "mini-vimrc",
   "obsidian-diagrams-net",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "make-md"
 ]

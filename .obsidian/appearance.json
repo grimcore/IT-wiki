@@ -6,5 +6,6 @@
   "textFontFamily": "CaskaydiaCove Nerd Font Mono",
   "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
   "baseFontSize": 14,
-  "showRibbon": true
+  "showRibbon": true,
+  "theme": "obsidian"
 }

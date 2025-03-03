@@ -1,6 +1,5 @@
 ---
-undefined: ""
-File: Contents/Prüfungen/LAP/Org Und Kaufmännisches/Angebot, Auftragsbestätigung, Rechnung, AGB, Lösungskonzepte.md
+sticker: lucide//book-open-check
 ---
 
 ## **In was für einer Einheit wird elektrische Spannung gemessen und wie ist das Formelzeichen?**

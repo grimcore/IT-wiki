@@ -1,3 +1,6 @@
+---
+sticker: lucide//check-circle
+---
 - [x] Org und Kaufmann
 - [x] Elektro Grundlagen
 - [x] Netzwerktechnik

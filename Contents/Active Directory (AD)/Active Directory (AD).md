@@ -5,7 +5,7 @@
 - [[DHCP]]
 - [[DNS-Record-Typen]]
 - [[DNS]]
-- [[Firewall]]
+- [[Contents/Active Directory (AD)/Firewall]]
 - [[Forest]]
 - [[FQDN]]
 - [[FSMO]]
