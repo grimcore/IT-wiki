@@ -11,12 +11,14 @@
             "id": "eee60816674e10a8",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Contents/Prüfungen/LAP"
+                "file": "Contents/Prüfungen/LAP/Org Und Kaufmännisches/Angebot, Auftragsbestätigung, Rechnung, AGB, Lösungskonzepte.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "LAP"
+              "title": "Angebot, Auftragsbestätigung, Rechnung, AGB, Lösungskonzepte"
             }
           }
         ],
@@ -40,7 +42,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -74,7 +76,7 @@
             }
           },
           {
-            "id": "53956341f7eebf0b",
+            "id": "3dbf1d87bc33b2d4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -176,7 +178,14 @@
   },
   "active": "eee60816674e10a8",
   "lastOpenFiles": [
+    "Contents/Prüfungen/LAP/Org Und Kaufmännisches/Projektplanung.md",
+    "Contents/Prüfungen/LAP/Org Und Kaufmännisches/Garantie Und Gewährleistung.md",
+    "Contents/Prüfungen/LAP/Org Und Kaufmännisches/Fragen.md",
+    "Contents/Prüfungen/LAP/Org Und Kaufmännisches/Angebot, Auftragsbestätigung, Rechnung, AGB, Lösungskonzepte.md",
     "Contents/Prüfungen/LAP/Checklist.md",
+    "Contents/Prüfungen/Prüfungen.md",
+    "Contents/Prüfungen/Untitled.md",
+    "Untitled.md",
     "Contents/Prüfungen/LAP/Netzwerktechnik/Verkabelung.md",
     "Contents/Prüfungen/LAP/Betriebssysteme/Fragen.md",
     "Contents/Prüfungen/LAP/Betriebssysteme/Betriebssysteme.md",
@@ -195,13 +204,6 @@
     "Contents/Prüfungen/LAP/Sicherheit/Backup.md",
     "Contents/Prüfungen/LAP/Programmierung und Scripts/Fragen.md",
     "Contents/Prüfungen/LAP/Programmierung und Scripts/Fragen/Programmierung und Scripts.md",
-    "Contents/Prüfungen/LAP/Org Und Kaufmännisches/Angebot, Auftragsbestätigung, Rechnung, AGB, Lösungskonzepte.md",
-    "Contents/Prüfungen/LAP/Netzwerktechnik/Grundlagen.md",
-    "Contents/Prüfungen/LAP/Netzwerktechnik/Fragen/Fragen.md",
-    "Contents/Prüfungen/LAP/Fehlersuche und Helpdesk/Fehlersuche und Helpdesk.md",
-    "Contents/Prüfungen/LAP/Fehlersuche und Helpdesk/Personal Notes.md",
-    "Contents/Prüfungen/LAP/Fehlersuche und Helpdesk/Fragen/Angebot, Auftragsbestätigung, Rechnung, AGB, Lösungskonzepte.md",
-    "Contents/Prüfungen/LAP/Elektrotechnik Grundlagen/Fragen.md",
     "Tags",
     "Contents/Prüfungen/LAP/Betriebssysteme/Themen",
     "Contents/Prüfungen/LAP/Cloud/Themen",
