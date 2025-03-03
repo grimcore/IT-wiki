@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Contents/Prüfungen/LAP/Betriebssysteme"
+                "path": "Contents/Prüfungen/LAP"
               },
               "icon": "lucide-file",
-              "title": "Betriebssysteme"
+              "title": "LAP"
             }
           }
         ],
@@ -40,7 +40,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "d8bb7b66dbd90b62",
+            "id": "f50c1ebedbfe3e76",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "right": {
     "id": "2876e1be8ed12764",
@@ -175,9 +174,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5d18f458821df13",
+  "active": "04094cf953749da5",
   "lastOpenFiles": [
-    "Contents/Prüfungen/LAP/Untitled.md",
+    "Contents/Prüfungen/LAP/Checklist.md",
     "Contents/Prüfungen/LAP/Sicherheit/Themen/Storage.md",
     "Contents/Prüfungen/LAP/Sicherheit/Themen/PC und Server Hardware.md",
     "Contents/Prüfungen/LAP/Sicherheit/Themen/Physische Sicherheit.md",

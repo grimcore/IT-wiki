@@ -1,0 +1,19 @@
+- [x] Org und Kaufmann
+- [x] Elektro Grundlagen
+- [x] Netzwerktechnik
+- [x] Betriebssysteme
+- [ ] Sicherheit
+- [ ] PC und Server Hardware
+- [ ] Storage
+- [ ] Virtualisierung
+- [ ] Telefonie
+- [ ] Monitoring
+- [ ] Social Media
+- [ ] Barcoding
+- [ ] Cloud
+- [ ] Web
+- [ ] Programmierung / Scripts
+- [ ] Datenbanken
+- [ ] Software
+- [ ] Standards
+- [ ] Fehlersuche und Helpdesk

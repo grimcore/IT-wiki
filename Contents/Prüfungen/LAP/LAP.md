@@ -11,6 +11,7 @@ sticker: lucide//bot
 		- [[Client und Server]]
 		- [[Linux]]
 		- [[Windows]]
+- [[Checklist]]
 - **[[Cloud]]**
 	- **[[Fragen]]**
 		- [[Cloud]]
