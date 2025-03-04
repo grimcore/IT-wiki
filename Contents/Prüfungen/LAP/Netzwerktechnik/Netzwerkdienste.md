@@ -1,6 +1,7 @@
 ---
 undefined: ""
 File: Contents/Prüfungen/LAP/Netzwerktechnik/Netzwerkdienste.md
+sticker: lucide//book-open-check
 ---
 
 ## Was ist „RADIUS“?

@@ -1,6 +1,7 @@
 ---
 undefined: ""
 File: Contents/Prüfungen/LAP/Netzwerktechnik/Protokolle.md
+sticker: lucide//book-open-check
 ---
 # Schichten 1 und 2
 

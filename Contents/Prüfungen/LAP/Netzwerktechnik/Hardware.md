@@ -1,6 +1,7 @@
 ---
 undefined: ""
 File: Contents/Prüfungen/LAP/Netzwerktechnik/Hardware.md
+sticker: lucide//book-open-check
 ---
 
 ## **Erklären Sie den Begriff „Switch“**

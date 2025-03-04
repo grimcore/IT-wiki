@@ -3,5 +3,6 @@
   "tabSize": 2,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "readableLineLength": false
 }

@@ -1,6 +1,7 @@
 ---
 undefined: ""
 File: Contents/Prüfungen/LAP/Netzwerktechnik/Grundlagen.md
+sticker: lucide//book-open-check
 ---
 
 ## **Was ist eine IP-Adresse?**

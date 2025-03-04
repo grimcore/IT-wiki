@@ -1,6 +1,7 @@
 ---
 undefined: ""
 File: Contents/Prüfungen/LAP/Netzwerktechnik/OSI-Schichtenmodell.md
+sticker: lucide//book-open-check
 ---
 ## **Wie viele Schichten enthält das OSI-Schichtenmodell?**
 

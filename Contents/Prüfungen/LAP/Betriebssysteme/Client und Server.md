@@ -1,6 +1,7 @@
 ---
 undefined: ""
 File: Contents/Prüfungen/LAP/Betriebssysteme/Client und Server.md
+sticker: lucide//book-open-check
 ---
 
 ## Erläutern Sie den Unterschied von Client-Betriebssystemen und Server-Betriebssystemen.

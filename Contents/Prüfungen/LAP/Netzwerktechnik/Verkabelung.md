@@ -1,6 +1,7 @@
 ---
 undefined: ""
 File: Contents/Prüfungen/LAP/Netzwerktechnik/Verkabelung.md
+sticker: lucide//book-open-check
 ---
 ## **Welche Standardgröße wird meistens für Netzwerkschränke verwendet?**
 

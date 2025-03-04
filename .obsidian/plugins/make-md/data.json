@@ -40,13 +40,7 @@
     "//Contents/Contents/Prüfungen",
     "//Contents/Contents/Prüfungen/Contents/Prüfungen/LAP",
     "Contents/Prüfungen/LAP",
-    "Contents/Prüfungen/LAP/Contents/Prüfungen/LAP/Betriebssysteme/Contents/Prüfungen/LAP/Betriebssysteme/Fragen",
-    "Contents/Prüfungen/LAP/Contents/Prüfungen/LAP/Cloud",
-    "Contents/Prüfungen/LAP/Contents/Prüfungen/LAP/Datenbanken",
-    "Contents/Prüfungen/LAP/Contents/Prüfungen/LAP/Fehlersuche und Helpdesk",
-    "Contents/Prüfungen/LAP/Contents/Prüfungen/LAP/Monitoring",
-    "Contents/Prüfungen/LAP/Contents/Prüfungen/LAP/Netzwerktechnik",
-    "Contents/Prüfungen/LAP/Contents/Prüfungen/LAP/Betriebssysteme"
+    "Contents/Prüfungen/LAP/Contents/Prüfungen/LAP/Betriebssysteme/Contents/Prüfungen/LAP/Betriebssysteme/Fragen"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

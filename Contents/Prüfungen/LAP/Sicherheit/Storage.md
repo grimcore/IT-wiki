@@ -1,6 +1,7 @@
 ---
 undefined: ""
 File: Contents/Prüfungen/LAP/Sicherheit/Storage.md
+sticker: lucide//book-open-check
 ---
 
 

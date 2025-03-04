@@ -1,6 +1,7 @@
 ---
 undefined: ""
 File: Contents/Prüfungen/LAP/Netzwerktechnik/LAN, WAN, WLAN, VLAN.md
+sticker: lucide//book-open-check
 ---
 
 ## **Erklären Sie die Begriffe LAN und WAN inklusive ihrer Unterschiede.**

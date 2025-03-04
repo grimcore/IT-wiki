@@ -2,9 +2,10 @@
 sticker: lucide//bot
 ---
 %% Begin Waypoint %%
+- **[[Barcoding]]**
+	- [[Fragen]]
 - **[[Betriebssysteme]]**
 	- [[Client und Server]]
-	- [[Fragen]]
 	- [[Linux]]
 	- [[Windows]]
 - [[Checklist]]
@@ -37,13 +38,13 @@ sticker: lucide//bot
 	- [[Garantie Und Gewährleistung]]
 	- [[Kalkulation Produkte und Stundensätze]]
 	- [[Projektplanung]]
+- **[[PC und Server Hardware]]**
+	- [[Fragen]]
 - **[[Programmierung und Scripts]]**
 	- [[Fragen]]
 - **[[Sicherheit]]**
 	- [[Backup]]
 	- [[Firewall]]
-	- [[Fragen]]
-	- [[PC und Server Hardware]]
 	- [[Physische Sicherheit]]
 	- [[Storage]]
 	- [[USV]]
@@ -54,6 +55,8 @@ sticker: lucide//bot
 - **[[Software]]**
 	- [[Fragen]]
 - **[[Standards]]**
+	- [[Fragen]]
+- **[[Storage]]**
 	- [[Fragen]]
 - **[[Telefonie]]**
 	- [[Fragen]]

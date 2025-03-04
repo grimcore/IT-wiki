@@ -5,18 +5,18 @@ sticker: lucide//check-circle
 - [x] Elektro Grundlagen
 - [x] Netzwerktechnik
 - [x] Betriebssysteme
-- [ ] Sicherheit
-- [ ] PC und Server Hardware
-- [ ] Storage
-- [ ] Virtualisierung
-- [ ] Telefonie
-- [ ] Monitoring
-- [ ] Social Media
-- [ ] Barcoding
-- [ ] Cloud
-- [ ] Web
-- [ ] Programmierung / Scripts
-- [ ] Datenbanken
-- [ ] Software
-- [ ] Standards
+- [x] Sicherheit
+- [x] PC und Server Hardware
+- [x] Storage
+- [x] Virtualisierung
+- [x] Telefonie
+- [x] Monitoring
+- [x] Social Media
+- [x] Barcoding
+- [x] Cloud
+- [x] Web
+- [ ] Programmierung / Scripts (n andern mal)
+- [x] Datenbanken
+- [ ] Software ~~~~
+- [x] Standards
 - [ ] Fehlersuche und Helpdesk

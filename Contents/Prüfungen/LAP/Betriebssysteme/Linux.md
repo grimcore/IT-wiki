@@ -1,6 +1,7 @@
 ---
 undefined: ""
 File: Contents/Prüfungen/LAP/Betriebssysteme/Linux.md
+sticker: lucide//book-open-check
 ---
 
 ## Welche UNIX bzw. Linux Betriebssysteme kennen Sie?

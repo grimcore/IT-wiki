@@ -1,6 +1,7 @@
 ---
 undefined: ""
 File: Contents/Prüfungen/LAP/Betriebssysteme/Windows.md
+sticker: lucide//book-open-check
 ---
 
 ## Was ist ein „Betriebssystem“?
