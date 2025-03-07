@@ -19,4 +19,4 @@ sticker: lucide//check-circle
 - [x] Datenbanken
 - [ ] Software ~~~~
 - [x] Standards
-- [ ] Fehlersuche und Helpdesk
+- [x] Fehlersuche und Helpdesk

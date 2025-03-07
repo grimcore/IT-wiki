@@ -1,5 +1,5 @@
 {
-  "newNotePlaceholder": "name me :( ",
+  "newNotePlaceholder": "Untitled",
   "defaultInitialization": false,
   "navigatorEnabled": true,
   "filePreviewOnHover": false,
@@ -36,19 +36,13 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Contents",
-    "//Contents/Contents/Prüfungen",
-    "//Contents/Contents/Prüfungen/Contents/Prüfungen/LAP",
-    "Contents/Prüfungen/LAP",
-    "Contents/Prüfungen/LAP/Contents/Prüfungen/LAP/Betriebssysteme/Contents/Prüfungen/LAP/Betriebssysteme/Fragen"
+    "Contents/Prüfungen/LAP"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
-  "hiddenFiles": [
-    "Contents/_attachments"
-  ],
+  "hiddenFiles": [],
   "hiddenExtensions": [
     ".mdb",
     "_assets",
@@ -71,7 +65,7 @@
   "fmKeySticker": "sticker",
   "openSpacesOnLaunch": true,
   "indexSVG": false,
-  "readableLineWidth": true,
+  "readableLineWidth": false,
   "autoAddContextsToSubtags": true,
   "releaseNotesPrompt": 0.999,
   "enableDefaultSpaces": true,
@@ -82,7 +76,7 @@
   "selectedKit": "default",
   "actionMaxSteps": 100,
   "contextPagination": 25,
-  "searchWorker": true,
+  "searchWorker": false,
   "skipFolderNames": [],
   "skipFolders": [],
   "enhancedLogs": false,
@@ -91,19 +85,5 @@
   "firstLaunch": true,
   "notesPreview": false,
   "editStickerInSidebar": true,
-  "overrideNativeMenu": false,
-  "flowMenuEnabled": true,
-  "markSans": false,
-  "makeMenuPlaceholder": true,
-  "mobileMakeBar": true,
-  "inlineStyler": true,
-  "inlineStylerColors": false,
-  "editorFlow": true,
-  "internalLinkClickFlow": true,
-  "internalLinkSticker": true,
-  "editorFlowStyle": "minimal",
-  "menuTriggerChar": "/",
-  "inlineStickerMenu": true,
-  "emojiTriggerChar": ":",
-  "flowState": false
+  "overrideNativeMenu": false
 }
