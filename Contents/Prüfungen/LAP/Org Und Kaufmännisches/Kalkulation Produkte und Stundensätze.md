@@ -1,6 +1,7 @@
 ---
 undefined: ""
 File: Contents/Prüfungen/LAP/Org Und Kaufmännisches/Kalkulation Produkte und Stundensätze.md
+sticker: lucide//book-open-check
 ---
 
 ## **Was verstehen Sie unter einem „Rohertrag“?**

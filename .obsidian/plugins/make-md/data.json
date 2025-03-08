@@ -36,7 +36,9 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "Contents/Prüfungen/LAP"
+    "Contents/Prüfungen/LAP",
+    "Contents/Prüfungen/LAP/Contents/Prüfungen/LAP/Org Und Kaufmännisches",
+    "Contents/Prüfungen/LAP/Contents/Prüfungen/LAP/Elektrotechnik Grundlagen"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

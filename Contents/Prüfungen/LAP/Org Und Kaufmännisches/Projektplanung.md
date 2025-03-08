@@ -1,6 +1,7 @@
 ---
 undefined: ""
 File: Contents/Prüfungen/LAP/Org Und Kaufmännisches/Projektplanung.md
+sticker: lucide//book-open-check
 ---
 ## **Was verstehen Sie unter einem Projekt?**
 

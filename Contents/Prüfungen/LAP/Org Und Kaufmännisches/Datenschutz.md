@@ -1,6 +1,7 @@
 ---
 undefined: ""
 File: Contents/Prüfungen/LAP/Org Und Kaufmännisches/Datenschutz.md
+sticker: lucide//book-open-check
 ---
 ## **Was versteht man unter der EU-DSGVO und wo gilt sie?**
 

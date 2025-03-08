@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Prüfungen/LAP/Sicherheit/Viren, Rootkits, Trojaner, Ransomware.md",
+                "file": "Contents/Prüfungen/LAP/Netzwerktechnik/LAN, WAN, WLAN, VLAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Viren, Rootkits, Trojaner, Ransomware"
+              "title": "LAN, WAN, WLAN, VLAN"
             }
           }
         ],
@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "02572ae88671eeec",
+            "id": "5dfc0f6a6fec1774",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Prüfungen/LAP/Sicherheit/Viren, Rootkits, Trojaner, Ransomware.md",
+                "file": "Contents/Prüfungen/LAP/Netzwerktechnik/LAN, WAN, WLAN, VLAN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Viren, Rootkits, Trojaner, Ransomware"
+              "title": "Outline of LAN, WAN, WLAN, VLAN"
             }
           },
           {
@@ -170,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,9 +188,24 @@
   },
   "active": "aa4f08cff147baa5",
   "lastOpenFiles": [
-    "Contents/Prüfungen/LAP/Sicherheit/Sicherheit.md",
-    "Contents/Prüfungen/LAP/Checklist.md",
     "Contents/Prüfungen/LAP/Netzwerktechnik/Netzwerktechnik.md",
+    "Contents/Prüfungen/LAP/Checklist.md",
+    "Contents/Prüfungen/LAP/Standards/Fragen.md",
+    "Contents/Prüfungen/LAP/Standards/Standards.md",
+    "Contents/Prüfungen/LAP/Org Und Kaufmännisches/Dokumentation.md",
+    "Contents/Prüfungen/LAP/Org Und Kaufmännisches/Datenschutz.md",
+    "Contents/Prüfungen/LAP/Elektrotechnik Grundlagen/Fragen.md",
+    "Contents/Prüfungen/LAP/Elektrotechnik Grundlagen/Elektrotechnik Grundlagen.md",
+    "Contents/Prüfungen/LAP/Org Und Kaufmännisches/Angebot, Auftragsbestätigung, Rechnung, AGB, Lösungskonzepte.md",
+    "Contents/Prüfungen/LAP/Org Und Kaufmännisches/Fragen.md",
+    "Contents/Prüfungen/LAP/Org Und Kaufmännisches/Projektplanung.md",
+    "Contents/Prüfungen/LAP/Org Und Kaufmännisches/Ergonomie.md",
+    "Contents/Prüfungen/LAP/Org Und Kaufmännisches/Garantie Und Gewährleistung.md",
+    "Contents/Prüfungen/LAP/Org Und Kaufmännisches/Kalkulation Produkte und Stundensätze.md",
+    "Contents/Prüfungen/LAP/Org Und Kaufmännisches/Anwenderschulung.md",
+    "Contents/Prüfungen/LAP/LAP.md",
+    "Contents/Prüfungen/LAP/Sicherheit/Viren, Rootkits, Trojaner, Ransomware.md",
+    "Contents/Prüfungen/LAP/Sicherheit/Sicherheit.md",
     "Contents/Prüfungen/Prüfungen.md",
     "Contents/Prüfungen/LAP/Web/Fragen.md",
     "Contents/Prüfungen/LAP/Netzwerktechnik/LAN, WAN, WLAN, VLAN.md",
@@ -200,22 +215,7 @@
     "Contents/Prüfungen/LAP/Social Media/Fragen.md",
     "Contents/Prüfungen/LAP/Monitoring/Fragen.md",
     "Contents/Prüfungen/LAP/Monitoring/Monitoring.md",
-    "Contents/Prüfungen/LAP/Programmierung und Scripts/Programmierung und Scripts.md",
-    "Contents/Prüfungen/LAP/Programmierung und Scripts/Fragen.md",
-    "Contents/Prüfungen/LAP/Fehlersuche und Helpdesk/Fragen.md",
-    "Contents/Prüfungen/LAP/Fehlersuche und Helpdesk/Fehlersuche und Helpdesk.md",
-    "Contents/Prüfungen/LAP/Standards/Fragen.md",
-    "Contents/Prüfungen/LAP/Standards/Standards.md",
-    "Contents/Prüfungen/LAP/Software/Fragen.md",
-    "Contents/Prüfungen/LAP/Software/Software.md",
-    "Contents/Prüfungen/LAP/Datenbanken/Fragen.md",
-    "Contents/Prüfungen/LAP/Datenbanken/Datenbanken.md",
-    "Contents/Prüfungen/LAP/Web/Web.md",
-    "Contents/Prüfungen/LAP/Cloud/Fragen.md",
-    "Contents/Prüfungen/LAP/Barcoding/Fragen.md",
-    "Contents/Prüfungen/LAP/Barcoding/Barcoding.md",
     "Contents/Prüfungen/LAP/Barcoding",
-    "Contents/Prüfungen/LAP/Social Media/Social Media.md",
     "Contents/Prüfungen/LAP/Storage",
     "Contents/Prüfungen/LAP/PC und Server Hardware",
     "Tags",

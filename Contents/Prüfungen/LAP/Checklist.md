@@ -1,22 +1,22 @@
 ---
 sticker: lucide//check-circle
 ---
-- [x] Org und Kaufmann
-- [x] Elektro Grundlagen
-- [x] Netzwerktechnik
-- [x] Betriebssysteme
-- [x] Sicherheit
-- [x] PC und Server Hardware
-- [x] Storage
-- [x] Virtualisierung
-- [x] Telefonie
-- [x] Monitoring
-- [x] Social Media
-- [x] Barcoding
-- [x] Cloud
-- [x] Web
+- [ ] Org und Kaufmann
+- [ ] Elektro Grundlagen
+- [ ] Netzwerktechnik
+- [ ] Betriebssysteme
+- [ ] Sicherheit
+- [ ] PC und Server Hardware
+- [ ] Storage
+- [ ] Virtualisierung
+- [ ] Telefonie (vernachlässigbar)
+- [ ] Monitoring
+- [ ] Social Media (vernachlässigbar)
+- [ ] Barcoding (vernachlässigbar)
+- [ ] Cloud
+- [ ] Web (vernachlässigbar)
 - [ ] Programmierung / Scripts (n andern mal)
-- [x] Datenbanken
-- [ ] Software ~~~~
-- [x] Standards
-- [x] Fehlersuche und Helpdesk
+- [ ] Datenbanken (vernachlässigbar)
+- [ ] Software (vernachlässigbar)
+- [ ] Standards
+- [ ] Fehlersuche und Helpdesk

@@ -1,6 +1,7 @@
 ---
 undefined: ""
 File: Contents/Prüfungen/LAP/Org Und Kaufmännisches/Garantie Und Gewährleistung.md
+sticker: lucide//book-open-check
 ---
 
 > [!QUESTION] Erklären Sie den Begriff Garantie.

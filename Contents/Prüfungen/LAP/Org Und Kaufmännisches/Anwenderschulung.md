@@ -1,6 +1,7 @@
 ---
 undefined: ""
 File: Contents/Prüfungen/LAP/Org Und Kaufmännisches/Anwenderschulung.md
+sticker: lucide//book-open-check
 ---
 ## **Erklären Sie den Begriff „Anwenderschulung“.**
 

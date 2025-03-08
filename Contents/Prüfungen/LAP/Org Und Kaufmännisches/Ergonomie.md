@@ -1,6 +1,7 @@
 ---
 undefined: ""
 File: Contents/Prüfungen/LAP/Org Und Kaufmännisches/Ergonomie.md
+sticker: lucide//book-open-check
 ---
 
 ## **Nennen Sie 3 körperliche Entspannungsübungen.**

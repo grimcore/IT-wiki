@@ -1,6 +1,7 @@
 ---
 undefined: ""
 File: Contents/Prüfungen/LAP/Org Und Kaufmännisches/Dokumentation.md
+sticker: lucide//book-open-check
 ---
 ## **Nennen Sie die wichtigsten Punkte, weshalb Sie IT-Systeme (Software, Netzwerk) dokumentieren.**
 

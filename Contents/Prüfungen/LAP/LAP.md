@@ -34,7 +34,6 @@ sticker: lucide//bot
 	- [[Datenschutz]]
 	- [[Dokumentation]]
 	- [[Ergonomie]]
-	- [[Fragen]]
 	- [[Garantie Und Gewährleistung]]
 	- [[Kalkulation Produkte und Stundensätze]]
 	- [[Projektplanung]]

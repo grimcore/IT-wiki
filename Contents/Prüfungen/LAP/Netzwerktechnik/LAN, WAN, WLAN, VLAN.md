@@ -4,7 +4,7 @@ File: Contents/Prüfungen/LAP/Netzwerktechnik/LAN, WAN, WLAN, VLAN.md
 sticker: lucide//book-open-check
 ---
 
-## **Erklären Sie die Begriffe LAN und WAN inklusive ihrer Unterschiede.**
+## Erklären Sie die Begriffe LAN und WAN inklusive ihrer Unterschiede.
 
 LAN (Local Area Network) und WAN (Wide Area Network) sind zwei Arten von Computernetzwerken, die sich in Größe und Reichweite unterscheiden.
 
@@ -47,7 +47,7 @@ LAN einfacher zu verwalten als WAN
 > [!note]
 WANs ermöglichen die Verbindung von Unternehmensstandorten weltweit, während LANs für lokale Netzwerke in Gebäuden oder auf Campussen genutzt werden
 
-## **Erklären Sie den Begriff WLAN.**
+## Erklären Sie den Begriff WLAN.
 
 WLAN steht für Wireless Local Area Network (drahtloses lokales Netzwerk). Es ist eine Technologie zur kabellosen Verbindung von Geräten mit einem Netzwerk und dem Internet
 
@@ -61,7 +61,7 @@ WLAN steht für Wireless Local Area Network (drahtloses lokales Netzwerk). Es is
 > [!note]
 WLAN-Netzwerke bestehen typischerweise aus einem Router als zentralem Element und verbundenen Endgeräten wie Smartphones, Laptops und Tablets[1](https://it-service.network/it-lexikon/wlan/). Die Technologie wird sowohl in privaten Haushalten als auch in Unternehmen und öffentlichen Bereichen eingesetzt. Im Gegensatz zu kabelgebundenen Netzwerken bietet WLAN mehr Flexibilität, kann aber anfälliger für Störungen und Sicherheitsrisiken sein
 
-## **Erklären Sie den Begriff VLAN.**
+## Erklären Sie den Begriff VLAN.
 
 VLAN steht für Virtual Local Area Network und bezeichnet ein logisches Teilnetzwerk innerhalb eines physischen Local Area Networks (LAN). 
 
@@ -89,7 +89,7 @@ Mehrere VLANs können einen Switch-Port nutzen, Frames erhalten VLAN-Tags
 > [!note]
 VLANs ermöglichen die logische Gruppierung von Geräten unabhängig von ihrer physischen Position im Netzwerk, was besonders in größeren Unternehmensnetzwerken nützlich ist
 
-## **Ist ein WLAN einem LAN oder einem WAN zuzuordnen? Begründen Sie.**
+## Ist ein WLAN einem LAN oder einem WAN zuzuordnen? Begründen Sie.
 
 Ein WLAN (Wireless Local Area Network) ist einem LAN (Local Area Network) zuzuordnen. 
 
@@ -113,7 +113,7 @@ WLANs werden, wie LANs, hauptsächlich in Heimnetzwerken, Büros oder auf Campus
 > [!note]
 Der Hauptunterschied zu einem kabelgebundenen LAN liegt lediglich in der Übertragungsmethode (Funk statt Kabel), nicht in der grundlegenden Netzwerkstruktur oder dem Einsatzbereich
 
-## **Ist ein VLAN einem LAN oder einem WAN zuzuordnen? Begründen Sie.**
+## Ist ein VLAN einem LAN oder einem WAN zuzuordnen? Begründen Sie.
 
 Ein VLAN (Virtual Local Area Network) ist einem LAN (Local Area Network) zuzuordnen. 
 
@@ -137,7 +137,7 @@ VLANs werden mit LAN-Geräten wie Switches verwaltet, nicht mit WAN-spezifischen
 > [!note]
 Obwohl VLANs die Flexibilität von LANs erweitern, bleiben sie in ihrem Wesen und ihrer Funktionalität eng mit dem LAN-Konzept verbunden.
 
-## **Erklären Sie den Netzwerkdienst „MPLS“ welcher von Providern zur Verfügung gestellt wird.**
+## Erklären Sie den Netzwerkdienst „MPLS“ welcher von Providern zur Verfügung gestellt wird.
 
 MPLS (Multiprotocol Label Switching) ist ein Netzwerkdienst, der von Providern angeboten wird, um Datenverkehr effizienter und schneller durch ihr Netzwerk zu leiten. 
 
@@ -164,7 +164,7 @@ MPLS eignet sich besonders für die Kopplung großer Netze und die Erstellung vo
 > [!note]
 MPLS verbindet die Vorteile von Switching und Routing und arbeitet zwischen den OSI-Schichten 2 und 3, weshalb es oft als "Layer 2.5"-Technologie bezeichnet wird
 
-## **Erklären Sie den Netzwerkdienst „Leased Line“ welcher von Providern zur Verfügung gestellt wird.**
+## Erklären Sie den Netzwerkdienst „Leased Line“ welcher von Providern zur Verfügung gestellt wird.
 
 Eine Leased Line ist eine dedizierte, symmetrische Datenverbindung zwischen zwei Punkten, die von Providern für Unternehmen bereitgestellt wird.
 
@@ -191,21 +191,20 @@ Ideal für zeitkritische Anwendungen.
 > [!note] 
 Leased Lines eignen sich besonders für Unternehmen mit hohem Bandbreitenbedarf, die eine stabile und sichere Verbindung zwischen Standorten oder zum Internet benötigen
 
-## **Welche Bandbreiten und Normen im Bereich WLAN kennen Sie?**
+## Welche Bandbreiten und Normen im Bereich WLAN kennen Sie?
 
 ### Wichtigste WLAN-Standards und ihre Bandbreiten 
 
 #### IEEE 802.11b
 
-- 2,4 GHz Band, bis zu 11 Mbit/s
+- 2,4 GHz Band
+- bis zu 11 Mbit/s
 
 #### IEEE 802.11a/g 
 
 - 802.11a: 5 GHz Band
 - 802.11g: 2,4 GHz Band  
-
-> [!note]
-Beide bis zu 54 Mbit/s
+- Beide bis zu 54 Mbit/s
 
 #### IEEE 802.11n (Wi-Fi 4): 
 
@@ -224,7 +223,7 @@ Beide bis zu 54 Mbit/s
 
 #### IEEE 802.11ad: 
 
-- 60 GHz Band
+- 6 GHz Band
 - Bis zu 7 Gbit/s auf kurze Distanzen
 
 #### IEEE 802.11be (Wi-Fi 7, in Entwicklung):
@@ -235,7 +234,7 @@ Beide bis zu 54 Mbit/s
 > [!note]
 Diese Standards nutzen verschiedene Modulationsverfahren und Antennentechnologien wie MIMO, um höhere Datenraten zu erreichen. Die tatsächlichen Geschwindigkeiten sind in der Praxis oft niedriger als die theoretischen Maximalwerte
 
-## **Was ist eine SSID?**
+## Was ist eine SSID?
 
 Eine SSID (Service Set Identifier) ist der eindeutige Name eines drahtlosen Netzwerks (WLAN). Hauptmerkmale der SSID sind:
 
@@ -249,7 +248,7 @@ Eine SSID (Service Set Identifier) ist der eindeutige Name eines drahtlosen Netz
 > [!note]
 Die SSID spielt eine wichtige Rolle für die Funktionalität und grundlegende Sicherheit von WLAN-Netzwerken, indem sie Benutzern erlaubt, das gewünschte Netzwerk auszuwählen und sich damit zu verbinden
 
-## **Welche Authentifizierungsmethoden gibt es im Bereich WLAN?**
+## Welche Authentifizierungsmethoden gibt es im Bereich WLAN?
 
 Es gibt mehrere Authentifizierungsmethoden für WLAN-Netzwerke: 
 
@@ -280,7 +279,7 @@ Vereinfachte Authentifizierung per Knopfdruck oder PIN. 
 > [!note]
 Die sichersten Methoden sind derzeit WPA3 und WPA2 Enterprise mit 802.1X. Ältere Methoden wie WEP und WPA gelten als unsicher und sollten nicht mehr verwendet werden
 
-## **Welche Möglichkeiten zur Verschlüsselung von einem WLAN gibt es?**
+## Welche Möglichkeiten zur Verschlüsselung von einem WLAN gibt es?
 
 Es gibt mehrere Möglichkeiten zur Verschlüsselung eines WLAN-Netzwerks, die sich im Laufe der Zeit entwickelt haben.
 
@@ -314,7 +313,7 @@ Es gibt mehrere Möglichkeiten zur Verschlüsselung eines WLAN-Netzwerks, die si
 > [!note]
 WPA2 und WPA3 sind die derzeit empfohlenen Verschlüsselungsmethoden, wobei WPA3 als die sicherste gilt. WEP und WPA sollten aufgrund ihrer Sicherheitsmängel nicht mehr verwendet werden
 
-## **Was ist „Richtfunk“ und wo wird es eingesetzt?**
+## Was ist „Richtfunk“ und wo wird es eingesetzt?
 
 Richtfunk ist eine drahtlose Nachrichtenübertragung mittels Radiowellen, die von einem Ausgangspunkt auf einen definierten Zielpunkt gerichtet ist. Diese Technologie verwendet energiebündelnde Antennen, um elektromagnetische Wellen in eine bestimmte Richtung zu konzentrieren. 
 
@@ -345,7 +344,7 @@ Zur schnellen und flexiblen Internetversorgung bei Messen oder Großveranstaltun
 > [!note]
 Richtfunk bietet Vorteile wie hohe Übertragungsgeschwindigkeiten, geringe Störanfälligkeit und die Möglichkeit, große Distanzen zu überbrücken
 
-## **Warum wird z.b. bei einen Hotel / Produktionsfirma ein VLAN eingerichtet?**
+## Warum wird z.b. bei einen Hotel / Produktionsfirma ein VLAN eingerichtet?
 
 ### Sicherheit
 VLANs ermöglichen die Trennung von Gäste- und Mitarbeiternetzwerken, was den Schutz sensibler Unternehmensdaten erhöht. 
